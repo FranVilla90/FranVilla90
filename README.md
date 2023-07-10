@@ -1,6 +1,10 @@
 <div align="center">
 <h1 align="center"> Hola, soy Fran Villa 👋</h1>
 </div>
+<img src="https://github.com/FranVilla90/franvilla90/blob/main/Portada.jpg">
+![GitHub followers](https://img.shields.io/github/followers/franvilla90)
+
+
 ## Sobre mi
 
 <!--
