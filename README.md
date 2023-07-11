@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hola, soy Fran Villa 👋</h1>
 </div>
-<img src="https://github.com/FranVilla90/franvilla90/blob/main/Portada.jpg">
+<img src="https://github.com/FranVilla90/franvilla90/blob/main/portada.png">
 
 [![GitHub Followers](https://img.shields.io/github/followers/franvilla90?style=social)]()
 [![GitHub Star](https://img.shields.io/github/stars/franvilla90/franvilla90.svg)]()
